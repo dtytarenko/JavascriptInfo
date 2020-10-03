@@ -39,3 +39,5 @@ let ladder = {
 };
 
 console.log(ladder.up().up().down().showStep());
+
+
